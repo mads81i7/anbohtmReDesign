@@ -1,0 +1,16 @@
+.semesterBox{
+    border-width: 1mm;
+    border-style: solid;   
+}
+.semesterBoxTitle{
+    margin: 1mm;
+    padding-top: 3mm;
+    text-align: center;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.link{
+    color: black;
+    text-decoration: underline;
+    font-size: 150%;
+}
